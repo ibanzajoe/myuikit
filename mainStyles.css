@@ -1,0 +1,20 @@
+@import url('base.css');
+:root {
+  --screen-sm: 440px;
+  --screen-md:  768px;
+  --screen-lg: 1024px;
+  --screen-xl: 1280px;
+  --color-primary: #3369ff;
+  --color-secondary: #7e33ff;
+  --color-tertiary: #33ffc9;
+  --color-warning: #ffbe33;
+  --color-danger: #ff5833;
+  --color-primary-shade: #5c81e6;
+
+}
+
+
+/* border */
+.border-1 {
+  border: 1px solid
+}
