@@ -13,7 +13,7 @@
     "storybook": "start-storybook -p 3002"
   },
   "dependencies": {
-    "nuxt": "^2.12.2"
+    "nuxt": "^3.4.3"
   },
   "devDependencies": {
     "@storybook/vue": "^5.3.19",
